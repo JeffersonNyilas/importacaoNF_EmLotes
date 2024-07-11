@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+opencv-python
+numpy
+pyautogui
+pyperclip
+selenium
+webdriver-manager
+Pillow
+=======
+opencv-python
+numpy
+pyautogui
+pyperclip
+selenium
+webdriver-manager
+Pillow
+>>>>>>> 11f79eac8749f6ee6d5afe8ee6d624ecfa81c73e
